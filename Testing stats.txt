@@ -1,0 +1,33 @@
+Input array given to network:
+[[0.]
+ [0.]
+ [0.]
+ [1.]]
+Error of network for the entire pattern:
+0.2683028061119356
+Target array:
+[[0.]
+ [0.]
+ [0.]
+ [1.]]
+Errors at individual outputs:
+[[-0.07047342]
+ [-0.00077162]
+ [-0.10370415]
+ [ 0.09335362]]
+Weighted sum of output layer (result):
+[[7.04734206e-02]
+ [7.71616525e-04]
+ [1.03704153e-01]
+ [9.06646384e-01]]
+Weights of Hidden-Output layer:
+[[-4.66469355 -4.71970966]
+ [ 4.66338047 -4.83743651]
+ [ 4.07197887  4.07272307]
+ [-5.08112803  4.70678376]]
+Weighted sum of hidden layer:
+[[0.00364829]
+ [0.99137101]]
+Weights of Input-Hidden layer:
+[[-4.84935686  4.89784111  5.23108549 -5.5290276 ]
+ [-4.68548305 -4.64030206  5.97305824  5.37292591]]
